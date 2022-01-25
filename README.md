@@ -1,5 +1,7 @@
 # Simple Fetch API Sandbox
 
+[Link to the site!](https://gonzalo-fuente.github.io/Simple_Fetch_Api_Sandbox/)
+
 # What is the Fetch API?
 
 The Fetch API is a modern interface that allows you to make HTTP requests to servers from web browsers.
